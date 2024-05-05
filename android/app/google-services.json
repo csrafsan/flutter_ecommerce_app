@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034808871554",
+    "project_id": "islamicbookshop-8c580",
+    "storage_bucket": "islamicbookshop-8c580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034808871554:android:0cfe3a75fb036f732c029b",
+        "android_client_info": {
+          "package_name": "com.example.islamicbookshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEMZW6nIb-vuKzcHeyg99bta7LBh9LrBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
